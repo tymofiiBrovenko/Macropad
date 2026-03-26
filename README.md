@@ -28,6 +28,9 @@ The PCB was designed to accommodate the 4x4 matrix layout. It uses standard 1N41
 
 <img width="730" height="606" alt="image" src="https://github.com/user-attachments/assets/f0b39f75-fbd8-4a48-8440-c000d1a2b7e7" />
 
+<img width="1233" height="712" alt="image" src="https://github.com/user-attachments/assets/bc042096-03ba-4135-b111-f0d4b1a4fb25" />
+
+
 
 *Note: The schematic might show SAMD21 pinouts (D0, D1, etc.) from the footprint library, but the hardware uses the XIAO RP2040, so the firmware is mapped to the exact RP2040 hardware pins (GP26, GP6, etc.).*
 
@@ -55,3 +58,6 @@ Here is everything you need to build this macropad:
 - 15x 1N4148 Diodes
 - Custom printed PCB & 3D Printed Case(2 parts)
 - Screws (M2.5x10mm SHCS) and heat-set inserts (M2.5x4x3.5)
+
+  <img width="1123" height="675" alt="image" src="https://github.com/user-attachments/assets/024c1a3f-7855-4bb3-b207-ddc52ea885e4" />
+
