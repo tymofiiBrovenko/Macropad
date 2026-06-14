@@ -1,6 +1,7 @@
 # LaTeX-PAD: Custom Macropad for Math & Science (RP2040)
 
-![Hero Image](ВСТАВЬ_СЮДА_ССЫЛКУ_НА_САМОЕ_КРАСИВОЕ_ФОТО_ГОТОВОГО_УСТРОЙСТВА)
+<img width="1123" height="675" alt="image" src="https://github.com/user-attachments/assets/1a03d40f-935c-4bb1-b577-e74c94a8ec6c" />
+
 
 This is a custom 15-key macropad with a rotary encoder. I built it mainly to speed up writing math formulas in LaTeX. It runs on a Seeeduino XIAO RP2040 using custom QMK firmware.
 
