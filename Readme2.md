@@ -34,6 +34,11 @@ I designed the enclosure from scratch in Fusion 360 to securely hold the PCB, sw
 
 > **Note:** The footprint library in the schematic might show SAMD21 pinouts (D0, D1, etc.). Just ignore that — the actual hardware uses the XIAO RP2040, and the QMK firmware is mapped to the correct RP2040 pins (GP26, GP6, etc.).
 
+### Logik
+<div align="center">
+  <img width="485" height="556" alt="image" src="https://github.com/user-attachments/assets/0eec56d2-98dc-463a-a6ea-8a6f423a10ee" />
+</div>
+
 ## Firmware Details
 
 The macropad runs on QMK Firmware to handle matrix scanning, the encoder, and all the custom macros.
