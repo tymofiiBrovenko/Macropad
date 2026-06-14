@@ -60,7 +60,6 @@ If you want to build one yourself, here's what you need:
 * 15x 1N4148 Diodes
 * Custom PCB (Gerber files are in the `hardware/` folder)
 * 3D Printed case parts
-* [Добавь сюда винты, кейкапы и другие мелочи]
 
 ## How to Build & Flash
 
