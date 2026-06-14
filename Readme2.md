@@ -21,7 +21,8 @@ I designed the enclosure from scratch in [Впиши название CAD, на�
 
 <div align="center">
   <img width="45%" alt="CAD render 1" src="https://github.com/user-attachments/assets/d0e816e2-e972-458c-8174-80056514a3af" />
-  <img width="45%" alt="CAD render 2" src="https://github.com/user-attachments/assets/52b4d9ba-7463-475c-9404-e1f36..." />
+  <img width="45%" alt="CAD render 2" src="https://github.com/user-attachments/assets/eee5907c-4131-45e6-96ec-015f690bac03" />
+" />
 </div>
 
 ### PCB
