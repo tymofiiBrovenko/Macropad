@@ -16,7 +16,7 @@ I designed this project to make my life easier when typing complex equations. It
 ## Hardware & Enclosure
 
 ### Case Design
-I designed the enclosure from scratch in [Впиши название CAD, например Fusion 360] to securely hold the PCB, switches, and the microcontroller together. 
+I designed the enclosure from scratch in Fusion 360 to securely hold the PCB, switches, and the microcontroller together. 
 * *Optional: The case is 3D printed in [PLA/PETG] and held together with [M3 screws].*
 
 <div align="center">
